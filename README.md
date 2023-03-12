@@ -2,7 +2,7 @@
 
 My name is George Silva from Brazil  (🇧🇷). I'm a academic of Computer Science in the Federal University of Pará.	
 
-🌱 I’m currently learning: front-end technologies like React(⚛️) and other programing languages like python(🐍) and java(☕️).	
+🌱 I’m currently learning: front-end technologies like Angular and back-end development with Java. 
 In my free time I like to play (and watch) video games (🎮), to watch movies (🎞️) and series (📺), to read books (📚) and listen to music (🎵).
 
 <a  href="https://github.com/anuraghazra/github-readme-stats">
